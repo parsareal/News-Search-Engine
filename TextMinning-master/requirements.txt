@@ -1,0 +1,11 @@
+django==2.2
+djangorestframework
+beautifulsoup4
+PersianStemmer
+pandas
+django-cors-headers
+matplotlib
+numpy
+hazm
+scikit-learn
+mongoengine
